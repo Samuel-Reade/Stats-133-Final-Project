@@ -5,6 +5,10 @@ This project investigates whether linguistic and sentiment-based features extrac
 
 ---
 
+## Kaggle Project 
+
+https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
+
 ## Project Structure
 
 ```
