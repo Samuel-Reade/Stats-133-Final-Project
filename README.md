@@ -138,3 +138,10 @@ This project demonstrates the potential of using text mining and machine learnin
 ---
 
 ## Project Structure
+
+├── data/
+├── figures/ 
+├── final_project.R 
+├── final_project.Rmd
+├── final_project.pdf 
+└── README.md
